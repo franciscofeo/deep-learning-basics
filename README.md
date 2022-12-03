@@ -31,7 +31,7 @@ Where $\epsilon$ is the difference between the real value and the value obtained
 
 ## **Result**
 
-Using perceptron as a classifier, the activation function returns $0$ when $ \nu < \theta$ or $1$ when $\nu \geq \theta$.
+Using perceptron as a classifier, the activation function returns $0$ when $\nu < \theta$ or $1$ when $\nu \geq \theta$.
 
 ![Perceptron](perceptron/graphs/perceptron.png)
 ____
