@@ -26,6 +26,7 @@ $$ \hat{\nu} = \hat{\omega} \cdot \hat{x} = \nu - \theta$$
 The update of weight and bias is simple
 
 $$ w_i = w + \lambda \cdot x_i \cdot \epsilon$$
+
 $$ b = b + \lambda \epsilon$$
 
 Where $\epsilon$ is the difference between the real value and the value obtained by the algoritm $( y_i - \hat{y}_{pred} )$. $\lambda$ is the learning rate (we have to choose a value that better fit the situation).
