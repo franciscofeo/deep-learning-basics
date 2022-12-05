@@ -38,4 +38,4 @@ Using perceptron as a classifier, the activation function returns $0$ when $\nu 
 ![Perceptron](perceptron/graphs/perceptron.png)
 ____
 
-## Adaline
+## Sigmoid Neuron
